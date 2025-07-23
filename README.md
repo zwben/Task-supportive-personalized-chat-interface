@@ -1,3 +1,11 @@
+# [Task Supportive and Personalized Human-Large Language Model Interaction: A User Study](https://dl.acm.org/doi/abs/10.1145/3627508.3638344)
+
+This repository contains a interface tool of a paper published in CHIIR 2024 for collecting data from a user study.
+
+### Platform interface
+
+![interface](public\framework.png)
+
 # Deployment 
 
 1. Clone the repository to their local machine:
@@ -77,6 +85,32 @@ What you need to know:
 - Open AI node.js library
 - Firebase services 
 
-### Platform interface
 
-![interface](public\interface.png)
+
+#### Publication:
+
+If you use this code, please cite our publication:
+
+```
+@inproceedings{10.1145/3627508.3638344,
+author = {Wang, Ben and Liu, Jiqun and Karimnazarov, Jamshed and Thompson, Nicolas},
+title = {Task Supportive and Personalized Human-Large Language Model Interaction: A User Study},
+year = {2024},
+isbn = {9798400704345},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3627508.3638344},
+doi = {10.1145/3627508.3638344},
+pages = {370–375},
+numpages = {6},
+location = {Sheffield, United Kingdom},
+series = {CHIIR '24}
+}
+
+```
+
+
+
+#### Acknowledgment
+
+This work is supported by the National Science Foundation (NSF) Award IIS-2106152, a grant from the Seed Funding Program of the Data Institute for Societal Challenges, the University of Oklahoma, and a fund from Microsoft for Startups Founders Hub.
