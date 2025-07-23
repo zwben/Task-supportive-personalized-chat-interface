@@ -87,10 +87,7 @@ What you need to know:
 
 
 
-#### Publication:
-
-If you use this code, please cite our publication:
-
+#### Publication
 ```
 @inproceedings{10.1145/3627508.3638344,
 author = {Wang, Ben and Liu, Jiqun and Karimnazarov, Jamshed and Thompson, Nicolas},
