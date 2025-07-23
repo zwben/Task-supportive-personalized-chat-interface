@@ -4,7 +4,7 @@ This repository contains a interface tool of a paper published in CHIIR 2024 for
 
 ### Platform interface
 
-![interface](public\framework.png)
+![interface](public/framework.png)
 
 # Deployment 
 
